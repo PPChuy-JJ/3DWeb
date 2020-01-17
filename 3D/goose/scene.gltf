@@ -1,0 +1,277 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 476,
+      "max": [
+        2.3198540210723877,
+        2.7019610404968262,
+        6.0037198066711426
+      ],
+      "min": [
+        -2.3198540210723877,
+        -2.3199999332427979,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5712,
+      "componentType": 5126,
+      "count": 476,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 476,
+      "max": [
+        0.99215042591094971,
+        0.98444050550460815,
+        0.40757006406784058,
+        1
+      ],
+      "min": [
+        -0.99756544828414917,
+        -0.12472570687532425,
+        -0.53225088119506836,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 7616,
+      "componentType": 5126,
+      "count": 476,
+      "max": [
+        0.90588235855102539,
+        0.89019608497619629,
+        0.83921569585800171,
+        1
+      ],
+      "min": [
+        0.23137255012989044,
+        0.23137255012989044,
+        0.074509806931018829,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 476,
+      "max": [
+        0.81387001276016235,
+        0.91567301750183105
+      ],
+      "min": [
+        0,
+        -0.0045159999281167984
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1518,
+      "max": [
+        475
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Nitomatta (https://sketchfab.com/Nitomatta)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/goose-from-untitled-goose-game-6daa3a8618db47edb7ff6a6911cc9532",
+      "title": "Goose from Untitled Goose Game"
+    },
+    "generator": "Sketchfab-6.36.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6072,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3808,
+      "byteOffset": 6072,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11424,
+      "byteOffset": 9880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15232,
+      "byteOffset": 21304,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 36536,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Vertex_Colors",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.95770514946237739
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "miniGoose_Vertex Colors_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "63118f701587491fb113912ae1d057d0.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        0.99999994039535522,
+        2.2204459169014151e-16,
+        0,
+        9.3132301870468837e-10,
+        0,
+        0,
+        1
+      ],
+      "name": "miniGoose"
+    },
+    {
+      "mesh": 0,
+      "name": "miniGoose_Vertex Colors_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
